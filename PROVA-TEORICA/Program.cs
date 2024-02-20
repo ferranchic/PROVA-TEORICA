@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-
+// COMENTARI CHORRA
 namespace PROVA_TEORICA
 {
     class Program
